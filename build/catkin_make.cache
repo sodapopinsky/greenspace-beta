@@ -1,2 +1,2 @@
-
--DCATKIN_DEVEL_PREFIX=/home/crash/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/crash/catkin_ws/install -G Unix Makefiles
+rosbots_description
+-DCATKIN_DEVEL_PREFIX=/home/pi/greenspace-beta/devel -DCMAKE_INSTALL_PREFIX=/home/pi/greenspace-beta/install -G Unix Makefiles

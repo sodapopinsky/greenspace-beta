@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#rosrun teleop_twist_keyboard teleop_twist_keyboard.py /cmd_vel:=/part2_cmr/cmd_vel
 
 import rospy
 
